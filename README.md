@@ -2,7 +2,7 @@
 A Go implementation of a Forth like language inspired by this small
 ebook https://skilldrick.github.io/easyforth/#conditionals-and-loops
 
-# TODO:\
+# TODO:
 1.Replace ints with float64\
 2.Refactor code\
 3.Add If-Else expressions\
