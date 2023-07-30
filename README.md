@@ -7,7 +7,7 @@ ebook https://skilldrick.github.io/easyforth/#conditionals-and-loops
 2.Refactor code\
 3.Add If-Else expressions\
 4.Add Loops\
-5.Add variables\
+5.Add variables
 
 # How to use it
 ```go
